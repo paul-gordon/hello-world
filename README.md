@@ -1,2 +1,3 @@
 # hello-world
 My first learning repository
+OK, I think I'm starting to get the hang of how this all works conceptually...
